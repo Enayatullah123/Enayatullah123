@@ -5,6 +5,7 @@
 🌍 From Afghanistan <br>
 📱 Passionate about Mobile App Development <br>
 🚀 AI and Full Stack Development
+  Portfolio Link: https://enayatullah123.github.io/
 </p>
 
 ### 👨‍💻 About Me
